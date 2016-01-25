@@ -1,6 +1,12 @@
 # SemPress
 
-A WordPress theme, highly semantic, HTML5 templates, responsive and seo optimized. SemPress supports most of the new HTML5 tags, the new HTML5 input-types, microformats, microformats v2 and microdata (Schema.org).
+[![Flattr this](http://button.flattr.com/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=pfefferle&url=https%3A%2F%2Fgithub.com%2Fpfefferle%2Fsempress)
+
+A WordPress theme, highly semantic, HTML5 templates, responsive and SEO optimized.
+
+![SenPress](https://raw.githubusercontent.com/pfefferle/SemPress/master/sempress/screenshot.png)
+
+SemPress supports most of the new HTML5 tags, the new HTML5 input-types, microformats, microformats v2 and microdata (Schema.org).
 
 ## POSH - Plain old Semantic HTML
 
@@ -54,16 +60,34 @@ SemPress supports:
 
 ## Translations
 
-* de_DE: thanks to [Benjamin Hartwich](http://www.benjaminhartwich.de/) ([@benhartwich](https://twitter.com/benhartwich))
-* fr_FR: thanks to [Julien Pierré](http://www.jp-software.fr/en/)
-* id_ID: thanks to [Sugeng Tigefa](http://tigefa4u.github.io) ([@tigefa_team](https://twitter.com/tigefa_team))
-* nb_NO: thanks to [Kristoffer Risanger](https://github.com/kristofferR) ([@kristofferR](https://twitter.com/kristofferR))
-* ru_RU: thanks to [Oleg](http://0leg.net) ([@oleg_sh](https://twitter.com/oleg_sh))
-* sv_SE: thanks to [Christopher Anderton](http://deluxive.se/blog/) ([@deluxivese](https://twitter.com/deluxivese))
+* **de_DE**
+    * [Benjamin Hartwich](http://www.benjaminhartwich.de/) ([@benhartwich](https://twitter.com/benhartwich))
+* **fr_FR**
+    * [Julien Pierré](http://www.jp-software.fr/en/)
+* **id_ID**
+    * [Sugeng Tigefa](http://tigefa4u.github.io) ([@tigefa_team](https://twitter.com/tigefa_team))
+    * [Rizky Luthfianto](https://github.com/rilut) ([@rilut](https://twitter.com/rilut))
+* **ko_KR**
+    * [CARLITO](http://www.calitosway.net) ([@calitoway](https://twitter.com/calitoway))
+* **nb_NO**
+    * [Kristoffer Risanger](https://github.com/kristofferR) ([@kristofferR](https://twitter.com/kristofferR))
+* **ru_RU**
+    * [Oleg](http://0leg.net) ([@oleg_sh](https://twitter.com/oleg_sh))
+* **sv_SE**
+    * [Christopher Anderton](http://deluxive.se/blog/) ([@deluxivese](https://twitter.com/deluxivese))
 
 ## Child themes
 
-* [SemPress Lite](https://github.com/jihaisse/SemPress-Lite) by [Jihaisse](http://jihais.se/)
+### [Index](http://cmx.org.uk/indextheme/) by [Phil Julian](http://cmx.org.uk/)
 
+See <http://cmx.org.uk> for an example
+
+### [SemPress Lite](https://github.com/jihaisse/SemPress-Lite) by [Jihaisse](http://jihais.se/)
+
+![SemPress Lite](https://raw.githubusercontent.com/jihaisse/SemPress-Lite/master/sempress-lite/screenshot.png)
+
+### [SenPress](https://github.com/pfefferle/SenPress) by me
+
+![SenPress](https://raw.githubusercontent.com/pfefferle/SenPress/master/screenshot.png)
 
 [![endorse](http://api.coderwall.com/pfefferle/endorsecount.png)](http://coderwall.com/pfefferle)

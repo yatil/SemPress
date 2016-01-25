@@ -14,6 +14,20 @@ The exceptions to this license are as follows:
 
 == Changelog ==
 
+= 1.5.2 =
+* added h-cite to be compatible to: https://indiewebcamp.com/comments-presentation#How_to_markup
+
+= 1.5.1 =
+* removed unused functions
+* updated translations
+* fixed bug with wrong header image-size
+* added sanitize callbacks
+* register sidebars on widgets_ini
+
+= 1.5.0 =
+* improved css
+* fixed microformats(2)
+
 = 1.4.6 =
 * nicer mobile view
 * changed pingback/trackback template
@@ -78,9 +92,18 @@ The exceptions to this license are as follows:
 * Genericons by Automattic - http://genericons.com
 * html5shiv - http://code.google.com/p/html5shiv/
 * Translator:
-** de_DE: Benjamin Hartwich - http://www.benjaminhartwich.de/
-** sv_SE: Christopher Anderton - http://deluxive.se/blog/
-** ru_RU: Oleg - http://0leg.net
-** fr_FR: Julien Pierré - http://www.jp-software.fr/en/
-** id_ID: Sugeng TiGeFa - http://tigefa4u.github.io
-** nb_NO: Kristoffer Risanger - https://twitter.com/kristofferR
+    * de_DE
+        * Benjamin Hartwich - http://www.benjaminhartwich.de/
+    * sv_SE
+        * Christopher Anderton - http://deluxive.se/blog/
+    * ru_RU
+        * Oleg - http://0leg.net
+    * fr_FR:
+        * Julien Pierré - http://www.jp-software.fr/en/
+    * id_ID
+        * Sugeng TiGeFa - http://tigefa4u.github.io
+        * Rizky Luthfianto - https://github.com/rilut
+    * nb_NO
+        * Kristoffer Risanger - https://twitter.com/kristofferR
+    * ko_KR
+        * CARLITO - http://www.calitosway.net

@@ -1,4 +1,4 @@
-module.exports = function(grunt) {
+module.exports = function (grunt) {
 
   // Project configuration.
   grunt.initConfig({
@@ -8,7 +8,8 @@ module.exports = function(grunt) {
         options: {
           style: 'expanded',
           line_comments: false,
-          line_numbers: false
+          line_numbers: false,
+          sourcemap: 'none'
         },
         files: {
           'sempress/style.css': 'sass/style.scss',
@@ -32,17 +33,20 @@ module.exports = function(grunt) {
           },
           prefix: '@@'
         },
-        files: [
-          { expand: true, flatten: true, src: ['sempress/style.css'], dest: 'sempress' }
-        ]
+        files: [{
+          expand: true,
+          flatten: true,
+          src: ['sempress/style.css'],
+          dest: 'sempress'
+        }]
       }
     }
   });
 
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-replace');
+  grunt.loadNpmTasks('grunt-contrib-watch');
 
   // Default task(s).
   grunt.registerTask('default', ['sass', 'replace']);
 };
-  
